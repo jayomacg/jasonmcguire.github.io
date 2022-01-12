@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: <span style="color: black">Energy Policy & Modelling Researcher and Sustainable Energy Community founder</span>
+#subtitle: <span style="color: black">Energy Policy & Modelling Researcher and Sustainable Energy Community founder</span>
 cover-img: "/assets/img/GettyImages-1135947405-1-1024x512.jpg"
 ---
 
 
 
-### My story
+### Energy Policy & Modelling Researcher and Sustainable Energy Community founder
 
 I have always had a passion for energy, and I worked on Building Management Systems in Melbourne, Australia for 8 years. I returned to Ireland to further my studies, while working on techno-economic models, I found a strong desire to better understand economics, which plays a huge role in how energy is supplied and consumed. The social equality aspect of the required energy transition is appealing to me, as I have harvested peat around Ireland's largest windfarm. 
 
