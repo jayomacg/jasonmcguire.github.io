@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Energy Policy & Modelling Researcher and Sustainable Energy Community founder
-cover-img: "/assets/img/JasonCOP26.jpg"
+cover-img: "/assets/img/GettyImages-1135947405-1-1024x512.jpg"
 ---
 
 
