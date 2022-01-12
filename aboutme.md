@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Energy Policy & Modelling Researcher and Sustainable Energy Community founder
+subtitle: <span style="color:blue">some *blue* Energy Policy & Modelling Researcher and Sustainable Energy Community founder</span>
 cover-img: "/assets/img/GettyImages-1135947405-1-1024x512.jpg"
 ---
 
